@@ -1,4 +1,4 @@
-#include <digboard.dtsi>
+#include "digboard.dtsi"
 
 &default_transform { 
     col-offset = <5>;
